@@ -1,2 +1,2 @@
 # random_codes
-A directory to store (numerical/scientific) code snippets that I wrote long ago.
+A directory to store (numerical/scientific) (important?) code snippets.
